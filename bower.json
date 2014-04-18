@@ -1,0 +1,11 @@
+{
+    "name": "bdv-volvo",
+    "version": "0.0.0",
+    "dependencies": {
+        "viewpager": "git@github.com:antonj/viewpager.js.git",
+        "jquery": "~2.1.0"
+    },
+    "devDependencies": {
+        "qunit": "*"
+    }
+}

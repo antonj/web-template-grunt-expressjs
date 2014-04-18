@@ -1,0 +1,6 @@
+public/js/libs/*
+_*.css
+node_modules
+.sass-cache
+npm-debug.log
+.DS_Store

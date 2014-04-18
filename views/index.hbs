@@ -1,0 +1,15 @@
+{{!< default}}
+<div class="container">
+  <h1>{{title}}</h1>
+  
+  <ol>
+    {{#each items}}
+    <li>
+      <a class="main-item" href="/edit/{{this}}">
+        <img src="/img/placeholder.png" />
+        <span >Item {{this}}</span>
+      </a>
+    </li>
+    {{/each}}
+  </ol>
+</div>
