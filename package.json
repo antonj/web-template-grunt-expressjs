@@ -1,11 +1,11 @@
 {
-  "name": "bdv-web",
+  "name": "web-template-runt-expressjs",
   "version": "0.1.0",
   "devDependencies": {
     "bower": "^1.3.2",
-    "browserify": "^3.41.0",
+    "browserify": "^4.1.5",
     "grunt": "^0.4.4",
-    "grunt-browserify": "^2.0.7",
+    "grunt-browserify": "^2.1.0",
     "grunt-contrib-compass": "^0.7.2",
     "grunt-contrib-cssmin": "^0.9.0",
     "grunt-contrib-jshint": "^0.10.0",
