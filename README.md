@@ -5,7 +5,6 @@ You'll need nodejs and ruby (for Compass, Scss):
 gem install bundler                # http://gembundler.com/
 bundle install                     # Dev dependencies in Gemfile
 npm install                        # Dev dependencies in package.json
-./node_modules/.bin/bower install  # App dependencies
 ```
   
 
@@ -13,10 +12,10 @@ npm install                        # Dev dependencies in package.json
 Watch for changes, compile Javascript and SCSS, and run server
   
 ```sh
-grunt dev
+grunt
 ```
 
-Compile all
+Compile all, minify don't start server
 
 ```sh
 grunt all
